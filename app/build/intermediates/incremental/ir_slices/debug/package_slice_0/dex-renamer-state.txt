@@ -1,4 +1,0 @@
-#Tue Jul 23 01:24:27 IST 2019
-base.0=C\:\\Users\\dubeya5\\Downloads\\android-vision-master\\android-vision-master\\visionSamples\\FaceTracker\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex
